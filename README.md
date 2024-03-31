@@ -9,5 +9,5 @@ setup your .env with API_KEY=""
 ##Hosted at
 
 ```
-
+https://businessbot-a5lgswafxuddofwr53zupq.streamlit.app/
 ```
